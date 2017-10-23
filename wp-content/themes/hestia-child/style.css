@@ -1,0 +1,17 @@
+/*
+Theme Name: Enlightened Millennials
+Template: hestia
+Author: MK
+Version: 1.1.51.1508532026
+Updated: 2017-10-20 20:40:26
+
+*/
+/* Overrides */
+
+.copyright.pull-right {
+    display: none;
+}
+
+.section-image:after {
+	background-color: transparent;
+}

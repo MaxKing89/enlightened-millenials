@@ -2624,7 +2624,6 @@ table > tbody > tr:last-child {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.7);
   content: "";
 }
 .section-image .container {
@@ -8194,4 +8193,8 @@ footer .wpml-ls-item-legacy-dropdown-click a {
   .navbar .navbar-nav .dropdown li.hestia-mm-heading {
     padding: 15px 0;
   }
+}
+
+.copyright.pull-right {
+    display: none;
 }
